@@ -1,1 +1,2 @@
-# vinnustyrkur.github.io
+# Vinnustyrkur
+Tímabundin lendingarsíða.
